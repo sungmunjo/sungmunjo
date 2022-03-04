@@ -17,7 +17,7 @@ sungmunjo/sungmunjo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[제가 관리하는 노션입니다](https://www.notion.so/Notion-1bc712810f8e4de7a6739538ce322f97#56383f95b46f413784249597e91064bc)
+[제가 관리하는 노션입니다](https://www.notion.so/Notion-1bc712810f8e4de7a6739538ce322f97)
         
         
 [제가 관리하는 네이버 블로그입니다](https://blog.naver.com/moonjo621)
