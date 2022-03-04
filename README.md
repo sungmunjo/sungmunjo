@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 안녕하세요. 성문조의 GitHub입니다!
+```html
+<img src = "backgroundimg.gif">
 
-![backgroundimg](https://user-images.githubusercontent.com/80288379/156765905-96c7ea9e-5d66-482a-a025-f57869079292.gif)
+```
 안녕하세요!
