@@ -1,6 +1,6 @@
 
    
-        <div style = "width: 40%;
+   <div style = "width: 40%;
             margin: 10px auto;
             border: 1px solid #000000;
             position: relative;">
