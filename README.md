@@ -43,4 +43,6 @@ You can click the Preview link to take a look at your changes.
         * JavaSwing과 파싱을 이용한 프로젝트.
         * 동기의 졸업 프로젝트 SW부분 참여
         * Unity 기초 프로젝트
+        * Spring Boot와 Vue를 이용한 아파트 거래내역 검색 사이트
+        * Spring 과 jsp를 이용한 아파트 거래내역 검색 사이트
         
